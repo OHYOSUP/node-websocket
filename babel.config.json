@@ -1,0 +1,5 @@
+// babel은 우리가 작성한 코드를 일반 node.js로 컴파일해줌
+
+{
+  "presets" : ["@babel/preset-env"]
+}
